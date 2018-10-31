@@ -1,0 +1,11 @@
+Chrome:
+открываем Settings -> Extensions -> включаем справа вверху Developer mode -> нажимаем LOAD UNPACKED -> 
+Указываем папку с расширением.
+Обновляем htmlforum
+
+Opera:
+нажимаем Ctrl + Shift + E
+или
+Открываем меню -> Extension -> Extensions -> включаем справа вверху Developer mode -> нажимаем Load unpacked extension...->
+Указываем папку с расширением.
+Обновляем htmlforum
