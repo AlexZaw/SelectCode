@@ -1,11 +1,11 @@
 Chrome:
-ÓÚÍ˚‚‡ÂÏ Settings -> Extensions -> ‚ÍÎ˛˜‡ÂÏ ÒÔ‡‚‡ ‚‚ÂıÛ Developer mode -> Ì‡ÊËÏ‡ÂÏ LOAD UNPACKED -> 
-”Í‡Á˚‚‡ÂÏ Ô‡ÔÍÛ Ò ‡Ò¯ËÂÌËÂÏ.
-Œ·ÌÓ‚ÎˇÂÏ htmlforum
+–æ—Ç–∫—Ä—ã–≤–∞–µ–º Settings -> Extensions -> –≤–∫–ª—é—á–∞–µ–º —Å–ø—Ä–∞–≤–∞ –≤–≤–µ—Ä—Ö—É Developer mode -> –Ω–∞–∂–∏–º–∞–µ–º LOAD UNPACKED -> 
+–£–∫–∞–∑—ã–≤–∞–µ–º –ø–∞–ø–∫—É —Å —Ä–∞—Å—à–∏—Ä–µ–Ω–∏–µ–º.
+–û–±–Ω–æ–≤–ª—è–µ–º htmlforum
 
 Opera:
-Ì‡ÊËÏ‡ÂÏ Ctrl + Shift + E
-ËÎË
-ŒÚÍ˚‚‡ÂÏ ÏÂÌ˛ -> Extension -> Extensions -> ‚ÍÎ˛˜‡ÂÏ ÒÔ‡‚‡ ‚‚ÂıÛ Developer mode -> Ì‡ÊËÏ‡ÂÏ Load unpacked extension...->
-”Í‡Á˚‚‡ÂÏ Ô‡ÔÍÛ Ò ‡Ò¯ËÂÌËÂÏ.
-Œ·ÌÓ‚ÎˇÂÏ htmlforum
+–Ω–∞–∂–∏–º–∞–µ–º Ctrl + Shift + E
+–∏–ª–∏
+–û—Ç–∫—Ä—ã–≤–∞–µ–º –º–µ–Ω—é -> Extension -> Extensions -> –≤–∫–ª—é—á–∞–µ–º —Å–ø—Ä–∞–≤–∞ –≤–≤–µ—Ä—Ö—É Developer mode -> –Ω–∞–∂–∏–º–∞–µ–º Load unpacked extension...->
+–£–∫–∞–∑—ã–≤–∞–µ–º –ø–∞–ø–∫—É —Å —Ä–∞—Å—à–∏—Ä–µ–Ω–∏–µ–º.
+–û–±–Ω–æ–≤–ª—è–µ–º htmlforum
